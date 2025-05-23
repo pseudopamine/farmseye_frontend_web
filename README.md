@@ -47,7 +47,7 @@
 ![Image](https://github.com/user-attachments/assets/47605f17-c0db-4abc-9588-503b91adaee9)
 
 ## 💡피드백
-- [**로그인/로그아웃 기능 구현 중 맞닥뜨린 고민🔗**](https://www.notion.so/250411-React-1dc3fd941ed680bc8e0ad7055512b40b?pvs=4)
+- [**로그인/로그아웃 기능 구현 중 맞닥뜨린 고민🔗**](https://trusted-fact-26c.notion.site/250411-React-1dc3fd941ed680bc8e0ad7055512b40b?pvs=4)
 
 
 
